@@ -6,16 +6,16 @@ When the plaque is not getting removed,and the bacteria in plaque continuously g
 
 The formation of decay depends on several factors:
 
-1. Diet- Type of diet (Eg: high sugar)
+1. ### Type of diet (Eg: high sugar)
 
     Frequency of consumption - When we are continuously having sugars, the mouth is not getting adequate time to recover from the effect of acid. It is said that we need at least a 2 hours gap between snacking.
 
-2. Plaque amount and its composition
-3. Saliva composition and characteristics
+2. ### Plaque amount and its composition
+3. ### Saliva composition and characteristics
     
     Eg: Ability to counter the effect of acid produced, Amount of calcium, phosphate etc.
 
-4. Resistance of tooth to acid attack
+4. ### Resistance of tooth to acid attack
     
     Eg: Exposure to topical fluoride(toothpaste/ varnish/gel)
 

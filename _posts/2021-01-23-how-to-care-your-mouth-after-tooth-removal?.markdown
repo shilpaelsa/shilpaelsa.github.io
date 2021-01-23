@@ -40,4 +40,4 @@ You need to take care of your mouth after a treatment like tooth removal. Here a
 
     Stiffness of the jaw and difficulty in mouth opening depends on the teeth removed and the procedure used. It will improve in 5-10 days. Application of moist heat will be helpful. 
 
-    All these information are general in nature. Please consult with your dentist as well for the individualised advice.
+All these information are general in nature. Please consult with your dentist as well for the individualised advice.
