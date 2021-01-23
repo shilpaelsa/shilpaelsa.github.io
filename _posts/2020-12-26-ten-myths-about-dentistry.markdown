@@ -1,3 +1,7 @@
+---
+categories: [Dentistry, General]
+---
+
 The ten myths about dentistry are
 
 1. ### You only need to go to the dentist when you have got toothache

@@ -1,3 +1,7 @@
+---
+categories: [Dentistry, General]
+---
+
 You need to take care of your mouth after a treatment like tooth removal. Here are some of the instructions you can follow that helps for better healing of the wound.
 
 1. ### Bleeding
@@ -6,12 +10,12 @@ You need to take care of your mouth after a treatment like tooth removal. Here a
 
     There are some points you have to keep in mind for proper healing and to avoid excess bleeding:
 
-        - Tell the dentist if you are taking any medications
-        - Refrain from smoking for at least 24 hours after the procedure
-        - Don't suck on a straw during first 24 hours
-        - Don't spit/rinse/vigorously during first 24 hours
-        - Keep your head elevated while sleeping
-        - Don't do any strenuous exercises for 24 hours.
+    - Tell the dentist if you are taking any medications
+    - Refrain from smoking for at least 24 hours after the procedure
+    - Don't suck on a straw during first 24 hours
+    - Don't spit/rinse/vigorously during first 24 hours
+    - Keep your head elevated while sleeping
+    - Don't do any strenuous exercises for 24 hours.
 
     Contact your dentist if bleeding persists or bleeding restarts or have any bleeding of concern.
 

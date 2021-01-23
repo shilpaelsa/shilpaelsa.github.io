@@ -1,3 +1,7 @@
+---
+categories: [Dentistry, Prosthodontics]
+---
+
 `“Nothing you wear is more important than your smile” - Connie Stevens`
 
 `“Her smile, I’m sure, burnt Rome to the ground” - Mark.Z.Danielewski`

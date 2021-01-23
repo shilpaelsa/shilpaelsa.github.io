@@ -1,3 +1,7 @@
+---
+categories: [Dentistry, General]
+---
+
 1. ### Brushing
     Brushing helps to remove the food particles present in teeth and gums. It's important to brush twice daily following the proper technique. There are various types of toothbrushes available: electric and manual. Typically, it doesn't make a huge difference between these two if we are doing it in the  proper way. Electric toothbrushes make brushing easy for children and people with limited manual dexterity. It is timed as well. 
 

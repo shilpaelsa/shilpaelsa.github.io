@@ -1,3 +1,7 @@
+---
+categories: [Dentistry, Conservative dentistry]
+---
+
 All of you have heard about decay.But has anyone thought about the initiation and progression of decay. How does decay happen? How does it progress?Let us have a look into it.
 
 There will be soft deposits adhering to the tooth surface or other hard surfaces in the mouth every time. This is called plaque which forms as a layer that builds up on teeth. It must be present for decay to develop.  Ideally, plaque has to be removed on a daily basis by using different methods. Plaque contains bacteria and their by-products. These bacteria have the ability to produce organic acids from carbohydrates we eat.
